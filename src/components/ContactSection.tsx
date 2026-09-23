@@ -150,7 +150,7 @@ export default function ContactSection() {
                     )}
                     {status === "error" && (
                         <p className="mt-[15px] text-[0.9rem] font-semibold text-[#7a1a1a]">
-                            Something went wrong. Please try again.
+                            Something went wrong. Please try again. Otherwise you can mail 
                         </p>
                     )}
                 </div>
